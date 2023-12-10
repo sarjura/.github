@@ -20,7 +20,7 @@
 </div> 
 -->
 
-Welcome to the "Sarjura" organization on GitHub!, child of 'WeDontTrack" Organization. We are dedicated to developing applications that prioritize user privacy and data protection. 
+Welcome to the "Sarjura" organization on GitHub!, child of '[@WeDontTrack](https://github.com/orgs/wedonttrack)' Organization. We are dedicated to developing applications that prioritize user privacy and data protection. 
 
 ## How and Why this Org..
 
